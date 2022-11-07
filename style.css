@@ -9,3 +9,12 @@ p {
     text-align: justify;
     font-size: 20px;
 }
+#historia {
+    width: 150px;
+    height: 150px;
+}
+
+#final {
+    width: 30%;
+    height: 30%;
+}
