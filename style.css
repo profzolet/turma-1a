@@ -3,8 +3,9 @@ body {
     text-align: center;
     }
 h1 {
-
+    color: darkorange;
 }
 p {
+    text-align: justify;
     font-size: 20px;
 }
