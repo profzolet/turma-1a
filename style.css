@@ -18,3 +18,11 @@ p {
     width: 30%;
     height: 30%;
 }
+.contatos {
+    background: #FFFFFF;
+    margin-left: 60%;
+    text-align: left;
+}
+h3 {
+    text-align: center;
+}
